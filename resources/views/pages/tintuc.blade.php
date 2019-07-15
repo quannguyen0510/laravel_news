@@ -27,7 +27,6 @@
 
                 <!-- Post Content -->
                 <p class="lead">{{$tintuc->TomTat}}</p>
-                <p>{!! $tintuc->NoiDung !!}</p>
 
                 <hr>
 
